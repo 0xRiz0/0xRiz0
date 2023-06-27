@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=NEEDS_NAME&style=for-the-badge&url=https%3A%2F%2Fkiranpachhai.com)]()
 [![Twitter Follow](https://img.shields.io/twitter/follow/o_oRizo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/o_oRizo)
 
-## I'm a Blockchain, Full-Stack Developer!!
+## I'm a Blockchain Full-Stack Developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with Developers
