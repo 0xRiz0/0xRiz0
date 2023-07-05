@@ -39,8 +39,7 @@ src="https://github.com/Riiz0/Riiz0/assets/51212226/f641a05d-618e-4dad-8b18-2634
 <br />
 
 ---
-
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-omega.vercel.app/api?username=riiz0&show_icons=true&hide_border=true&theme=dark" />
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-riiz0.vercel.app/api?username=riiz0&show_icons=true&hide_border=true&theme=dark" />
 
 
 [website]: ...
