@@ -39,7 +39,8 @@ src="https://github.com/Riiz0/Riiz0/assets/51212226/f641a05d-618e-4dad-8b18-2634
 <br />
 
 ---
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-riiz0.vercel.app/api?username=riiz0&show_icons=true&hide_border=true&theme=dark" />
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-riiz0.vercel.app/api?username=riiz0&show_icons=true&hide_border=false&theme=dark#gh-dark-mode-only" />
+<img algin="right" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-riiz0.vercel.app/api/top-langs/?username=riiz0&show_icons=true&hide_border=false&theme=dark#gh-dark-mode-only" />
 
 
 [website]: ...
