@@ -18,22 +18,17 @@
 
 <br />
 
-### Languages and Tools:
+### Tools I Use:
 
-<img align="left" alt="React" width="26px" 
-src="https://github.com/Riiz0/Riiz0/assets/51212226/46f3ea3e-38b5-43a6-b606-f744e44bc506" />
-<img align="left" alt="React" width="66px" 
-src="https://github.com/Riiz0/Riiz0/assets/51212226/efc1b87f-c5f3-4984-9e9c-6ab084c0603f" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="36px"
-src="https://github.com/Riiz0/Riiz0/assets/51212226/f641a05d-618e-4dad-8b18-2634b156e803" />
-<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="React" width="24px" src="https://github.com/Riiz0/Riiz0/assets/51212226/46f3ea3e-38b5-43a6-b606-f744e44bc506" />
+<img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/1200px-MetaMask_Fox.svg.png" />
+<img align="left" alt="React" width="30px" src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" />
+<img align="left" alt="React" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="React" width="24px" src="https://miro.medium.com/v2/resize:fit:1400/1*WcRnU2ERqYHZBKBQ0zXCvg.png" />
+<img align="left" alt="React" width="30px" src="https://github.com/Riiz0/Riiz0/assets/51212226/f641a05d-618e-4dad-8b18-2634b156e803" />
+<img align="left" alt="Terminal" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Visual Studio Code" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
 
 <br />
 <br />
