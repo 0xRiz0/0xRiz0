@@ -34,8 +34,8 @@
 <br />
 
 ---
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-riiz0.vercel.app/api?username=riiz0&show_icons=true&hide_border=false&theme=dark#gh-dark-mode-only" />
-<img algin="right" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-riiz0.vercel.app/api/top-langs/?username=riiz0&hide=stars&show_icons=true&hide_border=false&theme=dark#gh-dark-mode-only" />
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-riiz0.vercel.app/api?username=riiz0&hide=stars&show_icons=true&hide_border=false&theme=dark#gh-dark-mode-only" />
+<img algin="right" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-riiz0.vercel.app/api/top-langs/?username=riiz0&show_icons=true&hide_border=false&theme=dark#gh-dark-mode-only" />
 
 
 [website]: ...
