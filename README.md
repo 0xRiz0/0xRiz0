@@ -5,7 +5,7 @@
 
 ## I'm a Blockchain Full-Stack Developer!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 😎
 - 👯 I’m looking to collaborate with Developers
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I am a crypto fanatic 
