@@ -95,7 +95,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Riiz0/Riiz0/output/snake.svg" alt="Snake animation" />
-
-###
