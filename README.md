@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">- ✨ Creating bugs since 2021<br>- 🌱 I’m currently learning new Blockchain Technologies 😎<br>- 👯 I’m looking to collaborate with Developers<br>- 🥅 2023 Goals: Contribute more to Open Source projects<br>- ⚡ Fun fact: I am a crypto fanatic</p>
+<p align="left">- ✨ Creating bugs since 2021<br>- 🌱 I’m currently learning new Blockchain Technologies 😎<br>- 👯 I’m looking to collaborate with Developers<br>- 🥅 2024 Goals: Contribute more to Open Source projects<br>- ⚡ Fun fact: I am a crypto fanatic</p>
 
 ###
 
