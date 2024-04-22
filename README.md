@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="115" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
-
 ###
 
 <div align="center">
@@ -10,11 +6,13 @@
 
 ###
 
-<h1 align="left">Hey 👋 I'm a Blockchain Full-Stack Developer!!</h1>
+<h1 align="left">Hey 👋 I'm Shawn Rizo</h1>
 
 ###
 
 <h4 align="left">👩‍💻  About Me</h4>
+
+<p>I'm an avid Smart Contract | Blockchain Software Engineer, Web3 Developer, and Smart Contract Auditor.</p>
 
 ###
 
@@ -90,7 +88,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Riiz0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Riiz0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
