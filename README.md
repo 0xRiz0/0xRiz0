@@ -34,6 +34,9 @@
   <a href="https://discord.com/channels/hellorizo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
   </a>
+    <a href="https://riiz0.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=Website&label=&color=9969DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
+  </a>
 </div>
 
 ###
