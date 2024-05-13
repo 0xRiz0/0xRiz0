@@ -12,7 +12,7 @@
 
 <h4 align="left">👩‍💻  About Me</h4>
 
-<p>I'm an avid Smart Contract | Blockchain Software Engineer, Web3 Developer, and Smart Contract Auditor.</p>
+<p>I'm an avid Smart Contract | Blockchain Software Engineer, Web3 Developer, and Smart Contract Security Auditor.</p>
 
 ###
 
