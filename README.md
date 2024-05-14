@@ -46,15 +46,33 @@
 ###
 
 <div align="left">
+  <img src="https://s2.coinmarketcap.com/static/img/coins/200x200/1027.png" height="40" alt="Ethereum"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity logo"  />
   <img width="12" />
   <img src="https://getfoundry.sh/logo.png" height="40" alt="foundry"  />
   <img width="12" />
   <img src="https://icon.icepanel.io/Technology/svg/Hardhat.svg" height="40" alt="hardhat" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" height="40" alt="polygon logo"  />
-  <img width="12" />
   <img src="https://repository-images.githubusercontent.com/59065830/b62be480-45d2-11ea-9989-803db0f9c44d" height="40" alt="ethereum remix" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/crytic/slither/master/logo.png" height="40" alt="slither"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/Cyfrin/aderyn/dev/.github/images/aderyn_logo.png" height="40" alt="aderyn"  />
+  <img width="12" />
+  <img src="https://solodit.xyz/static/media/logos/logo_dark.svg" height="40" alt="solodit"  />
+  <img width="12" />
+  <img src="https://pbs.twimg.com/profile_images/1509629320649658380/9QINcb2f_400x400.jpg" height="40" alt="openzeppelin"  />
+  <img width="12" />
+  <img src="https://globaleducationcoalition.unesco.org/uploads/326_Chainlink_color_logo_O1kmmQ.png" height="40" alt="chainlink"  />
+  <img width="12" />
+  <img src="https://titrias.com/files/2022/04/typescript.png" height="40" alt="typescript"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" height="40" alt="nextjs"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
@@ -63,10 +81,6 @@
   <img src="https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/blkhxycyoyj4zk4trcjo" height="40" alt="infura"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Ipfs-logo-1024-ice-text.png" height="40" alt="ifps"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
@@ -85,13 +99,10 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Riiz0&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="215" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Riiz0&locale=en&mode=daily&theme=dark&hide_border=false&card_width=600&border_radius=5&order=3" height="215" alt="streak graph"  /> 
 </div>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Riiz0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Riiz0&locale=en&hide_title=false&card_width=500&layout=compact&langs_count=6&theme=dark&hide_border=false&order=2" height="215" alt="languages graph"  />
+</div> 
 
 ###
