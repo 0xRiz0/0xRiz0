@@ -62,7 +62,7 @@
   <img width="12" />
   <img src="https://solodit.xyz/static/media/logos/logo_dark.svg" height="40" alt="solodit"  />
   <img width="12" />
-  <img src="https://pbs.twimg.com/profile_images/1509629320649658380/9QINcb2f_400x400.jpg" height="40" alt="openzeppelin"  />
+  <img src="https://avatars.githubusercontent.com/u/20820676?s=280&v=4" height="40" alt="openzeppelin"  />
   <img width="12" />
   <img src="https://globaleducationcoalition.unesco.org/uploads/326_Chainlink_color_logo_O1kmmQ.png" height="40" alt="chainlink"  />
   <img width="12" />
