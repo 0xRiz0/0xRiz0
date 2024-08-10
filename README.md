@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="left">Hey 👋 I'm Shawn Rizo</h1>
+<h1 align="left">Hey 👋 I'm @Riiz0</h1>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">- ✨ Creating bugs since 2021<br>- 🌱 I’m currently learning new Blockchain Technologies 😎<br>- 👯 I’m looking to collaborate with Developers<br>- 🥅 2024 Goals: Contribute more to Open Source projects<br>- ⚡ Fun fact: I am a crypto fanatic</p>
+<p align="left">- ✨ Building on web3 since late 2021<br>- 🌱 Founder of CantinaVerse built on the #Superchain<br>- 👯 Always looking to build and collaborate with Developers<br>- 🥅 2024 Goals: Contribute to building and supporting Optimism's Superchain<br>- ⚡ Fun fact: I am a crypto fanatic<br>-😎 How to reach me please contact via twitter or farcaster</p>
 
 ###
 
@@ -30,6 +30,9 @@
   </a>
   <a href="https://twitter.com/o_oRizo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
+  </a>
+  <a href="https://warpcast.com/rizo" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Farcaster&logo=twitter&label=&color=8DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="warpcaster logo"  />
   </a>
   <a href="https://discord.com/channels/hellorizo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
