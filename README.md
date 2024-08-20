@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">- ✨ Building on web3 since late 2021<br>- 🌱 Founder of CantinaVerse built on the #Superchain<br>- 👯 Always looking to build and collaborate with Developers<br>- 🥅 2024 Goals: Contribute to building and supporting Optimism's Superchain<br>- ⚡ Fun fact: I am a crypto fanatic<br>-😎 How to reach me please contact via twitter or farcaster</p>
+<p align="left">- ✨ Building on web3 since late 2021<br>- 🌱 Founder of CantinaVerse built on Optimism's #Superchain<br>- 👯 Always looking to build and collaborate with Developers<br>- 🥅 2024 Goals: Contribute to building and supporting Optimism's Superchain<br>- ⚡ Fun fact: I am a crypto fanatic<br>-😎 How to reach me please contact via twitter or farcaster</p>
 
 ###
 
