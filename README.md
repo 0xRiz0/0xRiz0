@@ -26,7 +26,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://riiz0.github.io/portfolio/)
 
-- 📝 I regularly write articles on [Warpcast](https://warpcast.com/rizo)
+- 📝 I regularly write posts on [Warpcast](https://warpcast.com/rizo) & [X](https://x.com/o_orizo)
 
 - 💬 Ask me about **Smart Contracts, Blockchain, Security**
 
