@@ -18,7 +18,7 @@
 <h3 align="center">I'm an avid Smart Contract Developer | Smart Contract Security Reseacher | Blockchain Full-stack Developer | Web3 Developer</h3>
 <img align="right" alt="coding" width="350" src="https://imgs.search.brave.com/8Y0_QvEpMgPiEi55fDlnTFdjbD-59EGwBGq88GMBciE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvY29kaW5n/LWFuaW1hdGVkLWxh/cHRvcC1mbG93LXN0/cmVhbS1qYTA0MDEw/cm01bzY4emZrLmdp/Zg.gif">
 
-- 🔭 I’m currently working on [CantinaVerse](https://github.com/Riiz0/CantinaVerse)
+- 🔭 I’m currently working on [CantinaVerse](https://github.com/CantinaVerse-tech)
 
 - 🌱 I’m currently learning **Latest Smart Contract Security Exploits**
 
