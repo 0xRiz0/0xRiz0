@@ -18,7 +18,7 @@
 <h3 align="center">Smart Contract Developer | Web3 Builder | Smart Contract Security Reseacher </h3>
 <img align="right" alt="coding" width="350" src="https://imgs.search.brave.com/8Y0_QvEpMgPiEi55fDlnTFdjbD-59EGwBGq88GMBciE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvY29kaW5n/LWFuaW1hdGVkLWxh/cHRvcC1mbG93LXN0/cmVhbS1qYTA0MDEw/cm01bzY4emZrLmdp/Zg.gif">
 
-- 🔭 I’m currently working on [Arenium](https://github.com/Arenium-Social)
+- 🔭 I’m currently working on [Arenium](https://github.com/Arenium-Social) & AI Agents
 
 - 🌱 I’m currently learning **Latest Smart Contract Security Exploits**
 
