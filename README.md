@@ -32,8 +32,6 @@
 
 - 📫 How to reach me **shawnrizo@hotmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1b-2-igf6brXKhEEOPn3ylF9yGcHqkIM1/view?usp=sharing)
-
 - ⚡ Fun fact **I like Star Wars**
 
 ###
