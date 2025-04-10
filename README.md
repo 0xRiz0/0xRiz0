@@ -30,7 +30,7 @@
 
 - 💬 Ask me about **Smart Contracts, Blockchain, Security**
 
-- 📫 How to reach me **shawnrizo@hotmail.com**
+- 📫 How to reach me **My Socials**
 
 - ⚡ Fun fact **I like Star Wars**
 
