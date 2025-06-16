@@ -14,8 +14,8 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm 0xRiiz0</h1>
-<h3 align="center">Smart Contract Developer | Web3 Builder | Smart Contract Security Reseacher </h3>
+<h1 align="center">Hi 👋, I'm 0xRiz0</h1>
+<h3 align="center">Smart Contract Security Researcher | Smart Contract Developer | Web3 Builder</h3>
 <img align="right" alt="coding" width="350" src="https://imgs.search.brave.com/8Y0_QvEpMgPiEi55fDlnTFdjbD-59EGwBGq88GMBciE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvY29kaW5n/LWFuaW1hdGVkLWxh/cHRvcC1mbG93LXN0/cmVhbS1qYTA0MDEw/cm01bzY4emZrLmdp/Zg.gif">
 
 - 🔭 I’m currently working on **Security Audits & Bug Bounties**
@@ -24,9 +24,9 @@
 
 - 👯 I’m looking to collaborate on **Any EVM Compatible**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://riiz0.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://0xRiz0.github.io/portfolio/)
 
-- 📝 I regularly write posts on [Warpcast](https://warpcast.com/rizo) & [X](https://x.com/o_orizo)
+- 📝 I regularly write posts on [Warpcast](https://warpcast.com/rizo) & [X](https://x.com/0xRiz0)
 
 - 💬 Ask me about **Smart Contracts, Blockchain, Security**
 
