@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://imgs.search.brave.com/Vc8oRKAl4epDrPDAV26SZ1jgxngrCZYE53oio-iim88/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA3LzM1LzcxLzgy/LzM2MF9GXzczNTcx/ODI1N19HcTIzRmNU/NlJpUkl3UG9iZ09J/ZHJRN1d0U2E4S2hN/Yi5qcGc" alt="MasterHead">
-</p>
-
 ###
 
 <div align="center">
@@ -14,9 +10,9 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm 0xRiz0</h1>
+<h1 align="center">Hi 👋, I'm Neros </h1>
 <h3 align="center">Smart Contract Security Researcher | Smart Contract Developer | Web3 Builder</h3>
-<img align="right" alt="coding" width="350" src="https://imgs.search.brave.com/8Y0_QvEpMgPiEi55fDlnTFdjbD-59EGwBGq88GMBciE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvY29kaW5n/LWFuaW1hdGVkLWxh/cHRvcC1mbG93LXN0/cmVhbS1qYTA0MDEw/cm01bzY4emZrLmdp/Zg.gif">
+<img align="right" alt="coding" width="350" src="https://imgs.search.brave.com/Zc08cym0hL_dWGJv3LPmQcMDZJk3FosDcd5v0pNIpno/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jYW1v/LmdpdGh1YnVzZXJj/b250ZW50LmNvbS9k/MjZiNmUwMDQ0YTNh/N2NmNTZjMzIyMzgw/Mzg4Y2YxMGUxMTE0/ZWZkYWQ0M2I1Yjhi/NzdlZmE5NTAzZmE2/ZjVkLzY4NzQ3NDcw/NzMzYTJmMmY2ZDY1/NjQ2OTYxMzEyZTY3/Njk3MDY4NzkyZTYz/NmY2ZDJmNmQ2NTY0/Njk2MTJmNzYzMTJl/NTkzMjZjNmI1MDU0/NjMzNTRkNDc0OTMz/NGU2YTQ1Nzg2MTQ4/NTEzMDRkNTg2YjMz/NGY1NzZiMzU1OTdh/NGQ3ODYxNDQ1OTc5/NGY0NzcwNmY2MTU3/Njg3NjY0NmE2MzM1/NGY1NDRhNmE0ZjQ3/MzgzNTYyNmQ2NDZk/NGUzMzZjNmE2MTdh/NTE3YTU5NTM1YTZj/NjM0NDMxMzI0ZDU2/Mzk3MDYyNmU1MjZj/NjM2ZDM1Njg2MjQ2/Mzk2ZTYxNTc1YTY2/NTk2ZTZjNjY2MTU3/NTE2ZDU5MzM1MTM5/NWE3NzJmNjk0OTcx/NmQ0ZDM1NzQ1NDZh/NmQ3MDRmNDIzOTZk/NzA2MjZlMmY2NzY5/NzA2ODc5MmU2NzY5/NjY">
 
 - 🔭 I’m currently working on **Security Audits & Bug Bounties**
 
@@ -25,8 +21,6 @@
 - 👯 I’m looking to collaborate on **Any EVM Compatible**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://0xRiz0.github.io/portfolio/)
-
-- 📝 I regularly write posts on [Warpcast](https://warpcast.com/rizo) & [X](https://x.com/0xRiz0)
 
 - 💬 Ask me about **Smart Contracts, Blockchain, Security**
 
@@ -38,11 +32,8 @@
 
 ## 📱 Connect with me:
 <p align="left">
-<a href="https://twitter.com/o_orizo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="o_orizo" height="30" width="40" /></a>
+<a href="https://twitter.com/0xriz0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="o_orizo" height="30" width="40" /></a>
 <a href="https://warpcast.com/rizo" target="_blank"><img align="center" src="https://imgs.search.brave.com/hO5e_IjaFwbNO-YfXIMcGc5_HrW-3eJJrYOkViuOTRk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDgwYjc1NmFh/YjdiMTMwODliMjBj/Y2VmNGQ0OTVjODMy/YzE5NzIzYTQ0YzY0/M2IxY2ExNzZiY2Fj/NGEyMmYzOC93YXJw/Y2FzdC5jb20v" height="30" width="40" alt="warpcaster logo" /></a>
-<a href="https://riiz0.github.io/portfolio/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/10453/10453141.png" height="30" width="40" alt="portfolio logo" /></a>
-<a href="https://linkedin.com/in/shawn-rizo-8ba295232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shawn-rizo-8ba295232" height="30" width="40" /></a>
-<a href="https://discord.gg/233691932331606017" target="blank"><img align="center" src="https://imgs.search.brave.com/zkISrBQncHBgqOwdZCFf-IxPDMARRJI4D_Lezp5v0W8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGQwOWJhNTcw/N2RkNmVlZjU3MTc1/M2RhZmFhODk2M2Nh/ZGIyZTY4YmVjMTJm/YWI3OTNlOGEwYjBi/Mjg1MzIxZi9kaXNj/b3JkLmNvbS8" alt="233691932331606017" height="30" width="40" /></a>
 </p>
 
 ###
