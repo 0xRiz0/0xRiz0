@@ -1,7 +1,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Riiz0.Riiz0&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Neros0.Neros0&"  />
 </div>
 
 ###
@@ -10,8 +10,8 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Neros </h1>
-<h3 align="center">Smart Contract Security Researcher | Smart Contract Developer | Web3 Builder</h3>
+<h1 align="center">Hi 👋, I'm Neros0 </h1>
+<h3 align="center">Smart Contract Security Researcher</h3>
 <img align="right" alt="coding" width="350" src="https://imgs.search.brave.com/Zc08cym0hL_dWGJv3LPmQcMDZJk3FosDcd5v0pNIpno/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jYW1v/LmdpdGh1YnVzZXJj/b250ZW50LmNvbS9k/MjZiNmUwMDQ0YTNh/N2NmNTZjMzIyMzgw/Mzg4Y2YxMGUxMTE0/ZWZkYWQ0M2I1Yjhi/NzdlZmE5NTAzZmE2/ZjVkLzY4NzQ3NDcw/NzMzYTJmMmY2ZDY1/NjQ2OTYxMzEyZTY3/Njk3MDY4NzkyZTYz/NmY2ZDJmNmQ2NTY0/Njk2MTJmNzYzMTJl/NTkzMjZjNmI1MDU0/NjMzNTRkNDc0OTMz/NGU2YTQ1Nzg2MTQ4/NTEzMDRkNTg2YjMz/NGY1NzZiMzU1OTdh/NGQ3ODYxNDQ1OTc5/NGY0NzcwNmY2MTU3/Njg3NjY0NmE2MzM1/NGY1NDRhNmE0ZjQ3/MzgzNTYyNmQ2NDZk/NGUzMzZjNmE2MTdh/NTE3YTU5NTM1YTZj/NjM0NDMxMzI0ZDU2/Mzk3MDYyNmU1MjZj/NjM2ZDM1Njg2MjQ2/Mzk2ZTYxNTc1YTY2/NTk2ZTZjNjY2MTU3/NTE2ZDU5MzM1MTM5/NWE3NzJmNjk0OTcx/NmQ0ZDM1NzQ1NDZh/NmQ3MDRmNDIzOTZk/NzA2MjZlMmY2NzY5/NzA2ODc5MmU2NzY5/NjY">
 
 - 🔭 I’m currently working on **Security Audits & Bug Bounties**
@@ -20,21 +20,11 @@
 
 - 👯 I’m looking to collaborate on **Any EVM Compatible**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://0xRiz0.github.io/portfolio/)
-
 - 💬 Ask me about **Smart Contracts, Blockchain, Security**
 
 - 📫 How to reach me **My Socials**
 
 - ⚡ Fun fact **I like Star Wars**
-
-###
-
-## 📱 Connect with me:
-<p align="left">
-<a href="https://twitter.com/0xriz0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="o_orizo" height="30" width="40" /></a>
-<a href="https://warpcast.com/rizo" target="_blank"><img align="center" src="https://imgs.search.brave.com/hO5e_IjaFwbNO-YfXIMcGc5_HrW-3eJJrYOkViuOTRk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDgwYjc1NmFh/YjdiMTMwODliMjBj/Y2VmNGQ0OTVjODMy/YzE5NzIzYTQ0YzY0/M2IxY2ExNzZiY2Fj/NGEyMmYzOC93YXJw/Y2FzdC5jb20v" height="30" width="40" alt="warpcaster logo" /></a>
-</p>
 
 ###
 
@@ -76,17 +66,17 @@
 ###
 
 ## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=0xRiz0&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xRiz0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Neros0&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Neros0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ###
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=0xRiz0&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Neros0&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ###
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=0xRiz0&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Neros0&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ###
