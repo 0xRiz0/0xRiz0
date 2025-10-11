@@ -75,8 +75,3 @@
 ![](https://github-profile-trophy.vercel.app/?username=Neros0&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ###
-
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Neros0&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-###
